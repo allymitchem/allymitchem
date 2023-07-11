@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Allyson Mitchem!</h1>
 <h3 align="center">A junior full stack developer currently living in Utah ⛰️</h3>
 
-- 🔭 I’m currently working on [my flexbox guide!](https://github.com/allymitchem/flexboxGuide)
+<!-- - 🔭 I’m currently working on [my flexbox guide!](https://github.com/allymitchem/flexboxGuide) -->
 
-- 🌱 I’m currently learning **C++**
+<!-- - 🌱 I’m currently learning **C++** -->
 
 - 📫 How to reach me **allysonmitchem@gmail.com**
 
