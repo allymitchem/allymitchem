@@ -1,7 +1,8 @@
 # AllysonMitchem
-
-<h1 align="center">Hi 👋, I'm Allyson Mitchem!</h1>
-<h3 align="center">A junior full stack developer currently living in Utah ⛰️</h3>
+<div align="center" style="background-image: url('https://res.cloudinary.com/fsa2/image/upload/v1689717711/portfolio%20site%20images/Project%20Images/githubBackground_omhprj.png'); background-size: cover; background-position: center; padding: 20px;">
+  <h1 align="center">Hi 👋, I'm Allyson Mitchem!</h1>
+  <h3 align="center">A junior full stack developer currently living in Utah ⛰️</h3>
+</div>
 
  - 🔭 I’m currently working on [my National Parks site!](https://github.com/allymitchem/nationalParks) 
 
