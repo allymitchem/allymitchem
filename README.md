@@ -8,7 +8,7 @@
 
 <!-- <img src="https://res.cloudinary.com/fsa2/image/upload/v1689799582/portfolio%20site%20images/telescope-svgrepo-com_copy_cfbfro.svg" alt="telescope" height="30"/> I’m currently working on [my National Parks site](https://github.com/allymitchem/nationalParks), as well as a [book tracking app](https://github.com/allymitchem/bookTrackerBackEnd) with [Kaylan Thompson](https://github.com/KaylanThompson)! -->
 
-<!-- - 🌱 I’m currently learning **C++** -->
+ - 🌱 I’m currently learning **C#** 
 
 
 <h3 align="left">Connect with me:</h3>
