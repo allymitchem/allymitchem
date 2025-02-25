@@ -1,5 +1,12 @@
 # AllysonMitchem
-![Background](https://res.cloudinary.com/fsa2/image/upload/v1689719386/portfolio%20site%20images/Project%20Images/backGroundGH_ffi1ec.png)
+<!--![Background](https://res.cloudinary.com/fsa2/image/upload/v1689719386/portfolio%20site%20images/Project%20Images/backGroundGH_ffi1ec.png) -->
+
+![Background](https://res.cloudinary.com/fsa2/image/upload/r_26/v1740525737/portfolio%20site%20images/Project%20Images/githubCover_zuduxl.png)
+
+
+
+
+
 #
  <!-- <h1 align="center">Hi 👋, I'm Allyson Mitchem!</h1>
   <h3 align="center">A junior full stack developer currently living in Utah ⛰️</h3> -->
