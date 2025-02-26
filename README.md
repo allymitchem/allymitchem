@@ -31,10 +31,10 @@
 
 #
  <p align="center">
- <img src="https://streak-stats.demolab.com?user=allymitchem&theme=aura-dark&exclude_days=Sun%2CSat" alt="Github Streak"/>
+ <img src="https://streak-stats.demolab.com?user=allymitchem&theme=calm-pink&exclude_days=Sun%2CSat" alt="Github Streak"/>
 </p> 
 
- 
+
 <!--
 <p align="right" >
   <img src="https://res.cloudinary.com/fsa2/image/upload/v1689731990/portfolio%20site%20images/Project%20Images/stars3-_eaoxh0.png"  height="30" />
